@@ -14,7 +14,7 @@ export default function RangeSlider() {
   };
 
   return (
-    <Box sx={{ width: 200 }}>
+    <Box sx={{ width: '90%' }}>
       <Slider
         getAriaLabel={() => 'Price range'}
         value={value}

@@ -31,7 +31,7 @@ export function Navbar() {
                             <Link className="nav-link active" aria-current="page" to="cart"><ShoppingCartOutlinedIcon />Cart</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link active" aria-current="page" to="login"><LogoutOutlinedIcon />Login</Link>
+                            <Link className="nav-link active" aria-current="page" to="signin"><LogoutOutlinedIcon />Login</Link>
                         </li>
                     </ul>
                 </div>
